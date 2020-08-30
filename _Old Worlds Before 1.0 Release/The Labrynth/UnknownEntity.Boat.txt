@@ -1,0 +1,25 @@
+TAG_Compound: 8 entries
+{
+	TAG_String("id"): Boat
+	TAG_List("Pos"): 3 entries
+	{
+		TAG_Double: 258.5
+		TAG_Double: 16.1801360742784
+		TAG_Double: -98.5
+	}
+	TAG_List("Motion"): 3 entries
+	{
+		TAG_Double: 0
+		TAG_Double: -0.00900679483425049
+		TAG_Double: 0
+	}
+	TAG_Byte("OnGround"): 0
+	TAG_Short("Fire"): -1
+	TAG_Float("FallDistance"): 102.3754
+	TAG_Short("Air"): 300
+	TAG_List("Rotation"): 2 entries
+	{
+		TAG_Float: 0
+		TAG_Float: 0
+	}
+}
