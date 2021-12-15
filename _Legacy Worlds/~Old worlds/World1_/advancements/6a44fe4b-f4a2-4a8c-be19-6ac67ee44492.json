@@ -1,0 +1,16 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-10-16 16:42:57 -0700",
+      "minecraft:mountains": "2020-10-16 16:42:41 -0700",
+      "minecraft:birch_forest": "2020-10-16 16:40:00 -0700",
+      "minecraft:river": "2020-10-16 16:43:36 -0700",
+      "minecraft:birch_forest_hills": "2020-10-16 16:43:29 -0700",
+      "minecraft:wooded_mountains": "2020-10-16 16:42:52 -0700",
+      "minecraft:wooded_hills": "2020-10-16 16:43:46 -0700",
+      "minecraft:plains": "2020-10-16 16:41:15 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2580
+}

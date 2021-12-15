@@ -1,0 +1,26 @@
+TAG_Compound: 9 entries
+{
+	TAG_String("id"): Minecart
+	TAG_List("Pos"): 3 entries
+	{
+		TAG_Double: 304.5
+		TAG_Double: 20.5
+		TAG_Double: -122.5
+	}
+	TAG_List("Motion"): 3 entries
+	{
+		TAG_Double: 0
+		TAG_Double: 0
+		TAG_Double: 0
+	}
+	TAG_Byte("OnGround"): 0
+	TAG_Int("Type"): 0
+	TAG_Short("Fire"): -1
+	TAG_Float("FallDistance"): 0
+	TAG_Short("Air"): 300
+	TAG_List("Rotation"): 2 entries
+	{
+		TAG_Float: 0
+		TAG_Float: 0
+	}
+}

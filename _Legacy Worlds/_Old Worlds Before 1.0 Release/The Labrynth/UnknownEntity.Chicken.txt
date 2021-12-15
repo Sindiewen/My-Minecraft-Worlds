@@ -1,0 +1,29 @@
+TAG_Compound: 12 entries
+{
+	TAG_String("id"): Chicken
+	TAG_List("Pos"): 3 entries
+	{
+		TAG_Double: 332.989619411699
+		TAG_Double: 64
+		TAG_Double: -276.852686391685
+	}
+	TAG_Short("AttackTime"): 0
+	TAG_List("Motion"): 3 entries
+	{
+		TAG_Double: 0.0358199354906871
+		TAG_Double: -0.0784000015258789
+		TAG_Double: 0.0570453449755108
+	}
+	TAG_Short("HurtTime"): 0
+	TAG_Byte("OnGround"): 1
+	TAG_Short("Fire"): -1
+	TAG_Short("Health"): 1
+	TAG_Float("FallDistance"): 0
+	TAG_Short("Air"): 300
+	TAG_List("Rotation"): 2 entries
+	{
+		TAG_Float: -411.5606
+		TAG_Float: 0
+	}
+	TAG_Short("DeathTime"): 0
+}

@@ -1,0 +1,29 @@
+TAG_Compound: 12 entries
+{
+	TAG_String("id"): Cow
+	TAG_List("Pos"): 3 entries
+	{
+		TAG_Double: 276.154820028968
+		TAG_Double: 87
+		TAG_Double: -254.217356741798
+	}
+	TAG_Short("AttackTime"): 0
+	TAG_List("Motion"): 3 entries
+	{
+		TAG_Double: 0.0392805701204471
+		TAG_Double: -0.0784000015258789
+		TAG_Double: 0.0212684231408857
+	}
+	TAG_Short("HurtTime"): 0
+	TAG_Byte("OnGround"): 1
+	TAG_Short("Fire"): -1
+	TAG_Short("Health"): 10
+	TAG_Float("FallDistance"): 0
+	TAG_Short("Air"): 300
+	TAG_List("Rotation"): 2 entries
+	{
+		TAG_Float: 1018.531
+		TAG_Float: 0
+	}
+	TAG_Short("DeathTime"): 0
+}
